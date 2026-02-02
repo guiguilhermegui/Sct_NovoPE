@@ -1,0 +1,713 @@
+Eixo,Bloco de Aprendizagem,Competência,Aplicação,distintivo,Antigo Item,Atividade
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",Variável(5),,,"Em um acampamento, criar uma estação meteorológica
+simples para registrar temperatura, umidade, direção do
+vento, nuvens e possíveis mudanças climáticas.
+"
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",Variável(5),,RT39,"Participar da construção de um fogão solar e usá-lo em um
+acampamento de patrulha ou tropa,"
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",Variável(5),,PT96,"Participar de uma excursão urbana com foco ecológico,
+identificando situações de risco para a sociedade referentes
+às mudanças climáticas.
+"
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",Variável(5),,RT100,"
+Visitar ou participar de uma atividade com uma organização
+que atua em prol do meio ambiente.
+"
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",Variável(5),,,"Em uma excursão ou acampamento em área não urbana,
+identificar ações prejudiciais à natureza, como extrativismo
+e mineração, e listar seus impactos."
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",Variável(5),,,"Planejar e participar de uma excursão, utilizando meios
+de transporte que dependem de fontes de energia limpa
+(bicicleta, ônibus elétrico, embarcação a remo, entre outros)."
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",Variável(5),,,"Organizar, com sua patrulha ou tropa, um projeto de
+conscientização sobre o uso de energia e água em sua
+escola, condomínio ou sede da UEL"
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",OU ,Especialidade,,Meteorologia
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",OU,Insígnea,,Escoteiros pela Energia Solar
+Meio Ambiente ,Mudanças Climáticas,"Participar de ações e projetos que
+ ajudem a proteger o meio ambiente e
+ enfrentar as mudanças do clima.",somam,Especialidade ,,"Agricultura, Energia, Jardinagem, Paisagismo"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Fixa,,PT9,"Em acampamentos e excursões, criar soluções para
+melhorar a higiene e conforto e classificar os residuos em
+categorias, tratando-os adequadamente."
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Fixa,,RT13,"Planejar adequadamente e adquirir as quantidades dos
+alimentos para refeições em um acampamento para sua
+patrulha, evitando desperdício."
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Registrar e analisar o consumo de água e energia da sua
+residência, buscando ideias para economizar, e apresentar
+para sua patrulha os resultados"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Avaliar o impacto ambiental de uma atividade e apresentar
+alternativas mais sustentáveis
+"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Visitar uma estação de energia renovável, uma estação
+de tratamento de água, uma cooperativa ou usina de
+reciclagem ou outras opções semelhantes,
+"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Consertar objetos simples, como brinquedos ou pequenos
+eletrodomésticos.
+"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Utilizar embalagens retornáveis ou reutilizáveis nas
+refeiçöes de campo, evitando descartáveis
+"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Separar residuos orgânicos e
+criar um sistema de compostagem caseira
+"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Criar uma campanha educativa para a tropa sobre
+consumo consciente e 
+economia de recursos"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Trocar roupas, livros ou jogos com amigos e familiares em
+vez de comprar novos."
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Organizar, com sua patrulha, uma campanha de
+conscientização sobre consumo responsável.
+"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Confeccionar utensilios ou equipamentos a
+partir de materiais reciclados para uso nas atividades da patrulha
+"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Planejar e realizar as refeições de um dia de acampamento
+sem carne, garantindo a ingestão adequada de proteínas."
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",Variável(5),,,"Organizar, cuidar e fazer reparos nos materiais da patrulha."
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",OU,Especialidade ,,Horticultura
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",OU,Insígnea ,,"Reduzir, Reutilizar e Reciclar"
+Meio Ambiente ,Consumo Responsável,"Praticar o consumo consciente diariamente, evitando
+desperdícios e ajudando a preservar os recursos naturais.",somam,Especialidade ,,"Agricultura, Aquicultura, Energia"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Fixa,,,"Participar. em patrulha.de uma atividade de exploracão em
+ambiente natural. reconhecendo a fauna e a flora locais e
+identificando riscos à preservacão. além de propor solucões
+para evitá-los."
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,RT4,"Reconhecer os animais venenosos e peçonhentos da região
+e saber como agir em casos de picadas ou contaminação.
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,PT94/RT76/RT101,"Planejar e executar um projeto ambiental com a patrulha
+ou tropa.
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,,"Plantar uma espécie nativa e
+observar seu crescimento
+registrando cada etapa.
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,PT95/RT102,"Identificar as pegadas de pelo menos cinco animais da
+fauna brasileira e realizar levantamento das pegadas em
+áreas naturais.
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,,"Participar de uma atividade de mergulho que tenha o
+objetivo de conhecer e explorar a vida na água.
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,,"Participar de uma atividade de observacão de animais
+noturnos com sua patrulha"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,,"Observar e registrar espécies de aves, insetos, plantas ou
+outros animais durante um acampamento ou excursao.
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,,"Visitar parques, reservas ou centros de proteção ambiental
+para conhecer acões de preservacão da fauna e da flora.
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,,"Construir comedouros ou bebedouros para aves e instalar
+em areas adequadas, acompanhando seu uso
+"
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",Variável(5),,,"Criar materiais educativos, como videos ou posts, sobre a
+importância de preservar a biodiversidade.
+ "
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",OU(1),Especialidade ,,Botânica /Oceanologia/ Zoologia
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",OU,Insígnea ,,Campeões da natureza
+Meio Ambiente ,Preservação da Biodiversidade ,"Proteger os animais e as plantas, percebendo como nossas
+ações podem ajudar ou atrapalhar a natureza.",somam,Especialidade ,,"Animais Venenosos e Peçonhentos, Aquarismo, Biologia,
+Cuidados com Animais de
+Estimação, Entomologia,
+Geologia, Meliponicultura, Microbiologia"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,,"Montar o campo de patrulha com pioneirias como mesa
+pórtico e canto do lenhador, utilizando amarras adequadas"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,PT40/RT43,"Aplicar os nós direito, correr, aselha, volta do fiel, escota
+durante um acampamento, sabendo sua utilização."
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,,"Escolher corretamente o local para montagem da
+barraca, incluindo técnicas de montagem, desmontagem e
+acondicionamento durante um acampamento de patrulha
+ou tropa."
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,PT41,"Manusear corretamente ferramentas de corte e sapa
+durante um acampamento de patrulha ou tropa, zelando
+pela segurança e realizando reparos"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,RT12,"Preparar
+e executar uma
+fogueira para uma refeição
+mateira durante um acampamento de patrulha ou tropa,
+seguindo as técnicas de segurança"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,RT1/PT1/PT94,"Participar de ao menos duas excursões ao ar livre (patrulha
+ou tropa), utilizando normas de baixo impacto ambiental"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,RT1/PT1/PT94,"Participar de ao menos dois acampamentos ao ar livre
+(patrulha ou tropa), utilizando normas de baixo impacto
+ambiental."
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Fixa,,PT22/RT23,"Orientar-se com recursos naturais, bússola e mapa,
+utilizando azimutes."
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,PT21/RT22,"Participar de um percurso no campo de pelo menos 1 km
+utilizando sinais de pista
+"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,PT13/RT14,"Colaborar na preparação de alimentos para a patrulha em
+pelo menos três atividades ao ar livre, sendo uma delas no
+estilo comida mateira, sem utensílios"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,PT14,"Desenvolver soluções para purificação e consumo de água
+em um acampamento."
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,PT23,"Aplicar técnicas de ""tocaia"" em jogos com a patrulha"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,PT42,"Participar da construção de um fogão suspenso ou forno de
+acampamento para 0 preparo de uma refeição"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,RT46,"Construir e pernoitar em um bivaque ou abrigo natural
+durante uma atividade de patrulha."
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,RT45,"Confeccionar falcaças, nó catau, lais de guia, pescador, oitc
+duplo e demonstrar cuidados com as cordas."
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,PT6,"Participar de uma atividade aquática com a tropa, seguindo
+as normas de segurança"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",Variável(5),,RT43,"Desenhar um croqui de um acampamento, usando sinais
+topográficos"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",somam,Especialidade ,,"Corrida de Orientação, Culinária Mateira, Escalada,
+Espeleoturismo, Ferramentas de Corte, Mountain Bike,
+Pesca, Rastreamento"
+Meio Ambiente ,Vida ao Ar Livre,"Aproveitar as atividades ao ar livre com respeito e cuidado,
+deixando cada lugar melhor do que encontrou.",OU(1),Especialidade ,,Acampamento / Excursões / Montanhismo / Pioneiria / Sobrevivência
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",FIXA,,,"Conhecer as ações iniciais em acidentes e como cuidar de:
+pequenos cortes;
+contusões;
+escoriações;
+queimaduras e
+picadas de animais peçonhentos
+"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",FIXA,,,Aplicar técnicas de bandagens e transporte de feridos
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",FIXA,,,"Cuidar da segurança fisica e mental nas atividades
+escoteiras, respeitando os limites próprios e dos outros, e seguindo as orientações dos escotistas"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,"Conhecer as medidas do seu corpo (palmo, envergadura, passo simples e duplo) e aplicá-las durante uma excursão com sua patrulha."
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,"Participar de uma atividade, oficina, palestra que trate
+dos maleficios dos seguintes assuntos: anorexia, bulimia, drogas, álcool, cigarro e cigarros eletrônicos.
+"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,"
+Saber contato dos órgãos de emergência e saber como informar os sinais vitais e situação da vítima,
+"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,"Participar de uma simulação de acidente
+atuar em conjunto com a sua patrulha.
+"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,"Proteger-se do sol e do rio durante as atividades,
+identificando casos de desidratação e insolaçãa, e respelitar os limites do seu corpo,
+"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,"Demonstrar como ajudar uma pessoa em casos de
+obstrução das vias aéreas e convulsões
+"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,"
+Conhecer os itens que compõem caixa de primeiros
+a socorros da patrulha e mantê-la organizada.
+"
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",Variável(4),,,Saber agir em casos de hemorragia 
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",somam,Especialidade,,"Babá, Cuidados com Idosos, Maquiagem, Salvamento,
+Segurança, Segurança e Emergência Náutica,
+Vigilância Epidemiológica."
+1_Saúde e Bem estar,Cuidado com o corpo,"Compreender as mudancas do seu corpo e respeitar as
+diferenças entre as pessoas, sem julgar pela aparência ou
+jeito de ser.Se cuidar, superar desafios fisicos e aprender a
+ajudar em situações simples com primeiros socorros.",OU,Especialidade,,"Anatomia Humana, Prevenção em Saúde, Primeiros
+Socorros."
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",Variável(4),,,"Fazer reflexões espirituais rotineiras na tropa ou
+patrulha, ao ar livre."
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",Variável(4),,,"Apresentar um pequeno relato à patrulha ou tropa sobre
+os ensinamentos de sua crença ou religião."
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",Variável(4),,," Auxiliar na realização de uma celebração de sua
+comunidade religiosa"
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",Variável(4),,,"Celebrar sua crença ou religião regularmente
+"
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",Variável(4),,,"Colaborar na organização de um culto interconfessional
+em uma atividade escoteira"
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",Variável(4),,,"Participar de um momento de reflexão e conexão com
+um ambiente natural em que possa apreciar e agradecer
+a beleza do mundo natural."
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",OU,Especialidade,,Yoga
+1_Saúde e Bem estar,Espirutualidade,"Explorar a espiritualidade ao se encantar com a natureza,
+ser solidário e conhecer diferentes crenças. Procurar viver
+com sentido e seguir seus princípios todos os dias",OU,Insígnea,,Diálogo Inter-religioso
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",FIXA,,,"Planejar e executar um cardápio completo e saudável (café da
+manhä,almoço e jantar) para a patrulha em acampamento"
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",FIXA,,PT2/PT6,"Conhecer e aplicar normas de limpeza no tratamento e
+conservação de alimentos nas atividades de patrulha."
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,,"Manter hábitos de higiene pessoal, utilizar o vestuário
+ou uniforme adequadamente, demonstrando aplicação
+correta dos distintivos"
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,,"Contribuir para manter a sede do grupo e canto de patrulha
+em ordeme em perfeito estado de conservação."
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,,"Montar um cronograma semanal, equilibrando estudos,
+responsabilidades e momentos de lazer."
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,,Praticar uma atividade fisica regularmente.
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,,"Promover um piquenique com alimentos saudáveis com
+sua patrulha ou tropa,"
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,,Manter adequada rotina de sono e alimentação saudável.
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,,"Saber o que são as indicações de rótulos, o que são
+gorduras saturadas, conservantes, corantes, além dos
+selos de advertência,"
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",Variável(3),,PT66/RT77,"Arrumar e limpar seu quarto e contribuir nas rotinas da casa,."
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",somam,Especialidade,,"Artes Marciais, Canoagem, Ciclismo, Corrida de
+Rua, Culinária Vegetariana, Cuidados Bucais, Dança,
+Desportos Inclusivos, Esportes de Quadra, Futebol,
+Ginásticas, Hipismo, Mergulho, Natação, Patinação,
+Plantas Medicinais, Remo, Skateboard, Slackline,
+Técnicas Verticais, Tênis, Tênis de Mesa, Tiro com
+Arco, Triatlo, Vela, Yoga"
+1_Saúde e Bem estar,Hábitos Saudáveis,"Cuidar da sua saúde fazendo atividades físicas, comendo de
+maneira equilibrada, mantendo bons hábitos de higiene e
+deixando seu espaço sempre limpo e organizado.",OU,Especialidade,,Nutrição.
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",FIXA,,,"Conhecer O conceito de Espaços Seguros
+aplicá-lo em todas as atividades de sua patrulha ou tropa."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",FIXA,,,"Aprender a identificar sinais de tristeza ou isolamento em
+colegas e saber como oferecer apoio inicial, como conversar
+com respeito e buscar ajuda de um adulto de confiança."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",Variável(2),,,"Participar de uma atividade sobre a importância do
+autocuidado e da saúde mental."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",Variável(2),,,"Conduzir uma sessão de relaxamento como yoga,
+meditação, caminhadas silenciosas na natureza,
+alongamentos, entre outras, para sua patrulha ou tropa."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",Variável(2),,PT16,"Organizar sua rotina de atividades semanais, considerando
+a importância do equilíbrio entre as atividades do mundo
+digital e real e realizar uma atividade de bem-estar offline."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",Variável(2),,,"Propor momentos de descontraçao com a família ao ar
+livre, evitando o uso da tecnologia e compartilhar como foi
+a experiência."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",Variável(2),,PT70/PT92,"Participar com sua patrulha de uma atividade que
+promova o contato com seus sentidos e promova
+momentos de equilíbrio emocional como por exemplo:
+uma trilha sensorial, pintura livre, roda de canções,
+observação de céu ou fogueira, entre outros."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",somam,Especialidade,,"Aeromodelismo, Canto, Coleções, Cubo Mágico,
+Dança, Expressão Musical, Ioiô, Jogos de Cartas
+Colecionáveis, Jogos de Tabuleiro, Mágica
+e Ilusionismo, Maquiagem, Pipas, Quebra-Cabeças,
+RPG, Xadrez."
+1_Saúde e Bem estar,Sáude Mental,"Adotar atitudes que ajudam a cuidar da sua saúde mental.
+encontrando formas de lidar com os desafios do dia a dia e
+colaborar para que todos se sintam bem ao seu redor.",OU,Especialidade,,Prevenção aos Vicios
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",FIXA,,PT20/RT20,"Participar de jogos com a patrulha ou a tropa,
+respeitando as regras e seus participantes."
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,PT64/RT30,"Organizar uma atividade de patrulha em sua casa ou na
+casa de um membro da patrulha."
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,RT38,Ensinar uma canção escoteiraa outros escoteiros.
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,,"Ajudar outro membro da UEL a conquistar ama
+especialidade ou insignia."
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,PT43/RT47/RT52,"Propor metas para melhorar a convivência na vida na
+patrulhae na tropa, compreendendo como todos se
+sentem quanto a isso."
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,,"Participar de uma atividade entre diferentes grupos
+escoteiros ou atividade regional ou nacional."
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,,"Acolher os novos integrantes da patrulha,"
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,PT66/RT77,"Assumir tarefas domésticas para melhorara convivência
+em casa."
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",Variável(4),,PT68/PT69,"Participar de uma atividade da tropa com a familia ou
+responsáveis."
+1_Saúde e Bem estar,Vínculos Saudáveis,"Fazer amizades de um jeito saudável e respeitoso, tratando
+os outros com empatia, construindo relações positivas no
+dia a dia,",OU,Especialidade,,PrevenÇão ao Bullying
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",FIXA,Especialidade,,"Conquistar, no Ramo Escoteiro, uma especialidade sobre
+um tema de seu interesse e que seja um conhecimento novo,"
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",FIXA,,,"Em conjunto com a sua patrulha, realizar um Percurso de
+Gilwell de pelo menos 3km"
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",Variável(4),,,"Enviar e receber mensagens simples em Alfabeto Fonético, Código Internacional de Sinais, Semáfora, Heliografia, Cifra
+de César ou Criptografia."
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",Variável(4),,,"Visitar com a sua patrulha: hospital, quartel de bombeiros,
+delegacia, empresas, comércios locais ou outros para
+conhecer o funcionamento de diferentes profissões."
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",Variável(4),,,"Conhecer o funcionamento de serviços de internet, rádio e TV,
+e usar esses conhecimentos para resolver problemas técnicos."
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",,,,"Convidar um especialista da comunidade para dialogar
+com a tropa e esclarecer dúvidas sobre determinado tema
+ou profissão."
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",,,,"Utilizar corretamente um rádiocomunicador em atividade
+da patrulha."
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",,,,"Realizar uma pesquisa sobre um tema escolhido e
+apresentar os resultados para a patrulha ou tropa em
+formato criativo (cartaz, teatro, vídeo, oficina)."
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",,,,"Planejar e executar, em conjunto com a sua patrulha, uma
+ação de serviço comunitário baseada em informações
+pesquisadas sobre necessidades locais."
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",somam,Especialidade,,"Aeromodelismo, Arquitetura e Urbanismo, Astronáutica, Astronomia, Biblioteconomia, Cartografia, Comunicações, Confeitaria, Construcão Civil, Criptografia, Culinária, Design
+de Interiores, E-Sports, Etiqueta, Ferramentas de Corte, Fiscalização de Pátio de Aeródromo, GPS, Informática, Investimentos, Jornalismo, Manicure,
+Manutenção Elétrica, Marcenaria, Marinharia, Matemática, Mecânica Aérea, Mecânica de Automóveis, Navegação Aérea, Observação Aérea, Planador, Prevenção de Incêndio, Produção
+Gráfica, Programação, Química, Radioamadorismo, Radioescuta, Redes de Computadores, Segurança
+e Emergência Náutica, Segurança no Trânsito, Simulação Aérea, Sinalização, Técnica Aeronâutica, Vendas, Web Design"
+1_Habilidades Para a Vida,Aprendizagem Contínua e Des. Vocacional,"Explorar assuntos que você acha interessante, procurar
+informações confiáveis para experimentar novas ideias
+e recursos, colocando o que aprendeu em prática nas
+atividades e nos projetos de serviço à comunidade.",OU,Insígnia,,"Insignia do Aprender
+Insignia da Modalidade do Mar - Grumete
+Insignia da Modalidade do Ar - Aviador"
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",FIXA,,,"Montar corretamente uma mochila para um acampamento,
+mantendo o equipamento pessoal em bom estado"
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Contribuir para o planejamento e a organização de uma excursão de patrulha,."
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Fazer uma excursão urbana com a sua patrulha ou tropa, se locomovendo por meio de transportes públicos como ônibus, trens, metrô, entre outros."
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Pesquisar e realizar as compras dos alimentos para um acampamento, apresentando para a patrulha uma prestação de contas"
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Saber onde encontrar, identificando em um mapa, os principais serviços públicos na cidade"
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Planejar e executar em patrulha um projeto de captação de recursos para participação em uma atividade escoteira,"
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,Participar de atividades ou oficinas sobre finanças pessoais
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Assumir pelo menos três encargos diferentes na patrulha, sendo bem avaliado pelos seus companheiros"
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Administrar o fundo de patrulha por pelo menos três meses, registrando receitas e despesas, eutilizar os recursos em atividades planejadas pela patrulha"
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,Registrar receitas e despesas simples ou da mesada em planilha ou caderno por um período determinado.
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",Variável(5),,,"Conduzir uma reunião de patrulha como monitor ou secretário, registrando decisões e acompanhando sua execução."
+1_Habilidades Para a Vida,Autonomia e Liderança,"Viver diferentes funções na patrulha, sabendo quando
+ajudar e quando é sua vez de liderar. Saber administrar o
+seu dinheiro para conseguir realizar atividades e projetos.
+Planejar, colocar em prática e depois avaliar as tarefas com
+o grupo, tomando decisões com responsabilidade,.",OU,Especialidades,,"Administração, Educação Financeira, Empreendedorismo, Oratória, Reparos Domésticos."
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",FIXA,,,Animar um Fogo de Conselho em um acampamento da patrulha ou de tropa.
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",FIXA,,,"Aplicar conceitos básicos de estruturas (cavaletes, encaixes
+ancoragens) em projetos como pontes, balsas, pórticos ou
+outras pioneirias"
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,"Organizar uma atividade de divulgação do escotismo no colégio, usando diferentes recursos: vídeos, cartazes, panfletos, entre outros"
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,Conhecer e cantar canções e danças apropriadas para diferentes momentos
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,Criar uma campanha publicitária divertida promovendo algum projeto ou atividade da patrulha ou Tropa Escoteira.
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,"Construir equipamentos improvisados de campo (mesa, suporte, abrigo, utensílios) utilizando materiais disponíveis,"
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,"Propor e implementar soluções criativas para reduzir custos de uma atividade, aproveitando materiais recicláveis ou doados"
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,Ensinar e aplicar dois novos jogos para sua tropa.
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,"Criar alternativas criativas para decorar o canto da patrulha ou o acampamento,"
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,"Participar de um festival de talentos na tropa,."
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,"Improvisar apresentações artísticas (esquetes, músicas, danças) em um Fogo de Conselho, explorando recursos disponíveis."
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",Variável(4),,,Criar um vídeo de divulgação das atividades de sua patrulha ou tropa
+1_Habilidades Para a Vida,Criatividade e Inovação,"Usar a criatividade para resolver problemas do dia a dia,
+pensando em várias ideias diferentes antes de decidir qual
+é a melhor solução.",OU,Especialidade,,"Arte Digital, Artes Visuais, Artesanato, Comédia, Costura e
+Estilismo, Encadernação, Fotografia, Grafite, HQ, Maquete,
+Pintura, Plastimodelismo, Propaganda e Marketing,
+Robótica, Videomaker."
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",FIXA,,,"Identificar situações perigosas e de maus tratos, sabendo
+como agir e a quem recorrer."
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,Conversar com a patrulha sobre pontos fortes e de melhoria no desempenho da equipe em atividades e acampamentos.
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,"Identificar seus medos e suas emocões diante a um pbstáculo desafiador, trabalhando para conseguir superá-lo"
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,"£m um acampamento, participar de um turno de ronda com outro companheiro de patrulha, refletindo sobre o cuidado com o outro."
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,"Participar de jogos ou competições, respeitando regras e resultados."
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,"£m uma atividade de patrulha ou de tropa, aplicar técnicas ie respiração, relaxamento ou meditação antes de um grande desafio"
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,"Participar de rodas de conversa ou momentos de partilha pós atividades intensas, ouvindo e respeitando as emoções dos demais."
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,"Sscrever uma pequena carta para si mesmo com palavras de incentivo, lembrando de suas qualidades dando sugestões de como você pode superar desafios futuros"
+1_Habilidades Para a Vida,Inteligência Emocional,"Entender o que você sente, aprender a lidar com suas
+emoções de forma respeitosa e enfrentar desafios mesmo
+quando as coisas ficam difíceis.",Variável(4),,,Criar e encenar uma pequena história em que o personagem passa por dificuldades e encontra formas saudáveis de lidar com elas.
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,FIXA,,,"Identificar, sozinho ou em patrulha, uma necessidade da comunidade e planejar e executar uma ação comunitária,."
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,FIXA,,,"Identificar os riscos de desastres naturais na comunidade e conhecer os hospitais e contatos de emergência, sabendo quando acionar cada um."
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,Variável(3),,,Aplicar o conhecimento adquirido nas especialidades em ações de servico à comunidade
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,Variável(3),,,"Participar ativamente de pelo menos uma campanha de servico e desenvolvimento comunitário organizadas pela UEL, distrito ou região,"
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,Variável(3),,,"Organizar uma oficina de brinquedos, doando os itens consertados para uma instituição que atende crianças carentes."
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,Variável(3),,,Colaborar em ações organizadas por outras instituições de serviço.
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,somam,Especialidades,,"Inclusão, Libras"
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,OU,Especialidades,,Defesa Civil
+1_Paz e Desenvolvimento,Comunidade,Realizar boas ações diariamente e trabalhar em equipe para organizar atividades e projetos de serviço à comunidade,OU,Insígnea,,"Mensageiros da Paz, Insignia da Ação Comunitária,."
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",FIXA,,,"Participar ativamente das decisões do Conselho de Patrulha, contribuindo com ideias, votando e assumindo responsabilidades, respeitando os resultados"
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",FIXA,,,"Participar ativamente das decisões da Assembleia de Tropa, contribuindo com ideias, votando e assumindo responsabilidades, respeitando os resultados."
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",FIXA,,,"Participar da eleição do monitor da patrulha e das decisões de encargos, respeitando os resultados"
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",Variável(2),,,"Visitar a sede administrativa de qualquer um dos três poderes, e explicar a importância e as particularidades desta forma de governo, conhecendo a constituição e os símbolos nacionais, do estado e município"
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",Variável(2),,,Conhecer a estrutura do grupo escoteiro ou seção autônoma e participar de uma Assembleia de Grupo Escoteiro.
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",Variável(2),,,Participar ativamente de um fórum de jovens do grupo escoteiro.
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",Variável(2),,,Aprender e compartilhar sobre a história do voto e da democracia no Brasil.
+1_Paz e Desenvolvimento,Democracia,"Participar das decisões da tropa, contribuindo com suas ideias respeitando as opiniões dos colegas e se comprometendo a seguir o que foi decidido em conjunto.",somam,Especialidades,,"Geografia, Paz e Justiça, Prevenção de Fake New"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",FIXA,,,Realizar o hasteamento ou arriamento da bandeira em cerimônia de abertura ou encerramento de atividade
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,"Desenvolver sua ÁArvore Genealógica"", pesquisando seu sobrenome, significado a história dos seus antepassados, situando-os no contexto histórico, e apresentá-la para sua patrulha"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,Participar das cerimônias com os simbolos nacionais e cantar o Hino Nacional corretamente
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,Apresentar para sua patrulha ou tropa histórias de mulheres que se destacaram em nosso pais
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,"Participar.com sua patrulha, de uma comemoração ou festa tipica da sua regiäo,"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,"Participar, com sua patrulha, de um safári fotográfico em sua cidade, identificando os locais de importância histórica da localidade"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,Participar de um jantar festivo representando um estado diferente do seu.
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,"Aplicar jogos e atividades típicas da sua região,"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,"Visitar museus, centros culturais ou pontos históricos locais para conhecer o patrimônio da regiãc"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,"Investigar lendas, histórias ou personagens do folclore brasileiro e dramatizá-los em esquetes no Fogo de Conselho"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,Aplicar canções e danças tipicas do Brasil
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",Variável(5),,,Confeccionar artesanato tipico de alguma região do Brasil
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",,,,"Apresentar a cultura da sua cidade em um evento regional ou nacional, como feira das cidades ou noite folclórica"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",somam,Especialidades,,"Anime, Arqueologia, Arte da Marinharia, Artes Cênicas Capoeira, Civilizações da Antiguidade, Cosplay, Culinária 'Tipica, Danças Folclóricas, História Aeroespacia História da Aviação, Histőria Brasileira, História da Arte, História do Escotismo, História Local, História Maritima, Literatura, Mitologias, Museologia, Origami Paleontologia, Poesia"
+1_Paz e Desenvolvimento,Herança Cultural,"Conhecer e valorizar as histórias, os costumes e os lugares da sua comunidade e pais, e propor atividades para compartilhat esses conhecimentos com os outros.",OU,Especialidades,,"Brasilidades, Genealogia, Informações Turisticas Tradições dos Povos Originários."
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",FIXA,,,Aplicar uma atividade para a patrulha sobre Direto Hlumnanos ou os Dircitos da Crianca c do Adolescent
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",Variável(4),,,Convidar a patrulha a cooperar em agões organizadas pas uma comunidade em favor de pessoas vulneráveis
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",Variável(4),,,Participar de uma excursão com sua patrulha ou tropk visitando diferentes templos e conhecendo um pouco mai: sobre cada religião.
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",Variável(4),,,"Participar de eventos de trocas culturais entre jovens d, diferentes origens para estimular o respeito mútu:"
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",Variável(4),,,Participar de uma atividade com cutro grupo escotelin ou seçlio autônoma e refletir sobre o que é Fraternidade Mundial Escoteirs
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",Variável(4),,,"Conhecer as diferentes denominações de fe e crença de amigos da patrulha, tropa, escola e comunidade"
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",Variável(4),,,Promover uma campanha que incentive atitudes de respeito e cooperação entre todos.
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",Variável(4),,,Convidar representantes de diferentes crenças par compartlhar experiências e responder perguntas da trops
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",,,,Criar com sua patrulha ou seção um calendário de celebrações religiosas das diferentes denominações de fé crença ali presentes.
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",somam,Especialidades,,Geografia História Mundial Inclusão Libras Linguas. Paz e Justiça
+1_Paz e Desenvolvimento,Promoção da Paz,"Agir com respeito no dia a dia. acolhendo as diferencas buscando conhecer crenças, culturas e jeitos de vive diferentes do seu,",OU,Insígnea ,,
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",FIXA,,,"Avaliar, com seus companheiros de patrulha, a vivência da Promessa e Lei Escoteira"
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",Variável(3),,,"Participar da avaliação da sua Progressão Pessoal e dos companheiros da patrulha,"
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",Variável(3),,,Explicar o significado da Lei e da Promessa Escoteira aos novos membros da patrulha.
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",Variável(3),,,Auxiliar um companheiro de patrulha a realizar sua Promessa Escoteira.
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",Variável(3),,,Explicar aos novos membros da patrulha os significados da flor-de-lis e da Saudação Escoteira
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",Variável(3),,,"Conhecer e cantar o Hino Alerta,"
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",somam,Especialidades,,"Fogo de Conselho, História do Escotismo"
+1_Paz e Desenvolvimento,Valores,"Colocar em prática a Promessa e a Lei Escoteira em tudo o que faz, demonstrando, com atitudes, que você vive os valores que acredita,",OU,Especialidades,,Escotismo Mundial
